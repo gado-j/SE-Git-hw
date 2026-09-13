@@ -1,3 +1,1 @@
-
-print("I eat a red and green  apple")
-
+print("I eat a red and green apple")
