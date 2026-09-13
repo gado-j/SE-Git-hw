@@ -1,2 +1,2 @@
-print("I eat apple")
+print("I eat a green  apple")
 
